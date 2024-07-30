@@ -1,0 +1,472 @@
+{
+    "IMG_20240630_174514649_HDR.jpg": {
+        "total_cards": 3,
+        "cards": {
+            "E": [],
+            "C": [
+                12
+            ],
+            "B": [
+                11
+            ],
+            "O": [
+                10
+            ]
+        },
+        "points": 0,
+        "figure": "N/A"
+    },
+    "IMG_20240630_173918579.jpg": {
+        "total_cards": 2,
+        "cards": {
+            "E": [],
+            "C": [],
+            "B": [],
+            "O": [
+                9,
+                8
+            ]
+        },
+        "points": 0,
+        "figure": "N/A"
+    },
+    "IMG_20240630_173836085.jpg": {
+        "total_cards": 2,
+        "cards": {
+            "E": [
+                7
+            ],
+            "C": [],
+            "B": [
+                6
+            ],
+            "O": []
+        },
+        "points": 7,
+        "figure": "E"
+    },
+    "IMG_20240630_174235296.jpg": {
+        "total_cards": 2,
+        "cards": {
+            "E": [
+                10
+            ],
+            "C": [],
+            "B": [],
+            "O": [
+                4
+            ]
+        },
+        "points": 4,
+        "figure": "O"
+    },
+    "IMG_20240630_173822184_HDR.jpg": {
+        "total_cards": 3,
+        "cards": {
+            "E": [
+                7
+            ],
+            "C": [],
+            "B": [
+                6,
+                3
+            ],
+            "O": []
+        },
+        "points": 29,
+        "figure": "B"
+    },
+    "IMG_20240630_174105714.jpg": {
+        "total_cards": 1,
+        "cards": {
+            "E": [],
+            "C": [],
+            "B": [
+                8
+            ],
+            "O": []
+        },
+        "points": 0,
+        "figure": "N/A"
+    },
+    "IMG_20240630_174445046_HDR.jpg": {
+        "total_cards": 1,
+        "cards": {
+            "E": [],
+            "C": [],
+            "B": [],
+            "O": [
+                6
+            ]
+        },
+        "points": 6,
+        "figure": "O"
+    },
+    "IMG_20240630_174459285.jpg": {
+        "total_cards": 1,
+        "cards": {
+            "E": [],
+            "C": [],
+            "B": [
+                5
+            ],
+            "O": []
+        },
+        "points": 5,
+        "figure": "B"
+    },
+    "IMG_20240630_173859456.jpg": {
+        "total_cards": 1,
+        "cards": {
+            "E": [],
+            "C": [],
+            "B": [
+                3
+            ],
+            "O": []
+        },
+        "points": 3,
+        "figure": "B"
+    },
+    "IMG_20240630_174349395.jpg": {
+        "total_cards": 2,
+        "cards": {
+            "E": [],
+            "C": [],
+            "B": [
+                10
+            ],
+            "O": [
+                7
+            ]
+        },
+        "points": 7,
+        "figure": "O"
+    },
+    "IMG_20240630_174246178_HDR.jpg": {
+        "total_cards": 1,
+        "cards": {
+            "E": [],
+            "C": [
+                2
+            ],
+            "B": [],
+            "O": []
+        },
+        "points": 2,
+        "figure": "C"
+    },
+    "IMG_20240630_173758691.jpg": {
+        "total_cards": 2,
+        "cards": {
+            "E": [],
+            "C": [
+                1
+            ],
+            "B": [
+                2
+            ],
+            "O": []
+        },
+        "points": 2,
+        "figure": "B"
+    },
+    "IMG_20240630_173711753_HDR.jpg": {
+        "total_cards": 1,
+        "cards": {
+            "E": [],
+            "C": [
+                11
+            ],
+            "B": [],
+            "O": []
+        },
+        "points": 0,
+        "figure": "N/A"
+    },
+    "IMG_20240630_173737533.jpg": {
+        "total_cards": 3,
+        "cards": {
+            "E": [],
+            "C": [
+                5,
+                1
+            ],
+            "B": [
+                2
+            ],
+            "O": []
+        },
+        "points": 26,
+        "figure": "C"
+    },
+    "IMG_20240630_174208092.jpg": {
+        "total_cards": 2,
+        "cards": {
+            "E": [
+                5
+            ],
+            "C": [],
+            "B": [],
+            "O": [
+                11
+            ]
+        },
+        "points": 5,
+        "figure": "E"
+    },
+    "IMG_20240630_173828513_HDR.jpg": {
+        "total_cards": 3,
+        "cards": {
+            "E": [
+                7
+            ],
+            "C": [],
+            "B": [
+                6,
+                3
+            ],
+            "O": []
+        },
+        "points": 29,
+        "figure": "B"
+    },
+    "IMG_20240630_174453153.jpg": {
+        "total_cards": 2,
+        "cards": {
+            "E": [],
+            "C": [
+                3
+            ],
+            "B": [
+                1
+            ],
+            "O": []
+        },
+        "points": 3,
+        "figure": "C"
+    },
+    "IMG_20240630_174017809.jpg": {
+        "total_cards": 2,
+        "cards": {
+            "E": [
+                6
+            ],
+            "C": [],
+            "B": [
+                9
+            ],
+            "O": []
+        },
+        "points": 0,
+        "figure": "N/A"
+    },
+    "IMG_20240630_174333447.jpg": {
+        "total_cards": 2,
+        "cards": {
+            "E": [],
+            "C": [],
+            "B": [
+                7,
+                4
+            ],
+            "O": []
+        },
+        "points": 31,
+        "figure": "B"
+    },
+    "IMG_20240630_174434126.jpg": {
+        "total_cards": 2,
+        "cards": {
+            "E": [],
+            "C": [
+                7
+            ],
+            "B": [],
+            "O": [
+                12
+            ]
+        },
+        "points": 7,
+        "figure": "C"
+    },
+    "IMG_20240630_174142929_HDR.jpg": {
+        "total_cards": 1,
+        "cards": {
+            "E": [
+                3
+            ],
+            "C": [],
+            "B": [],
+            "O": []
+        },
+        "points": 3,
+        "figure": "E"
+    },
+    "IMG_20240630_174005265.jpg": {
+        "total_cards": 1,
+        "cards": {
+            "E": [],
+            "C": [],
+            "B": [],
+            "O": [
+                1
+            ]
+        },
+        "points": 1,
+        "figure": "O"
+    },
+    "IMG_20240630_173954348.jpg": {
+        "total_cards": 2,
+        "cards": {
+            "E": [],
+            "C": [
+                10
+            ],
+            "B": [],
+            "O": [
+                1
+            ]
+        },
+        "points": 1,
+        "figure": "O"
+    },
+    "IMG_20240630_174406256.jpg": {
+        "total_cards": 3,
+        "cards": {
+            "E": [],
+            "C": [],
+            "B": [
+                10
+            ],
+            "O": [
+                7,
+                5
+            ]
+        },
+        "points": 32,
+        "figure": "O"
+    },
+    "IMG_20240630_174133804_HDR.jpg": {
+        "total_cards": 2,
+        "cards": {
+            "E": [
+                3,
+                4
+            ],
+            "C": [],
+            "B": [],
+            "O": []
+        },
+        "points": 27,
+        "figure": "E"
+    },
+    "IMG_20240630_174302382_HDR.jpg": {
+        "total_cards": 2,
+        "cards": {
+            "E": [
+                1
+            ],
+            "C": [
+                6
+            ],
+            "B": [],
+            "O": []
+        },
+        "points": 6,
+        "figure": "C"
+    },
+    "IMG_20240630_174115784.jpg": {
+        "total_cards": 3,
+        "cards": {
+            "E": [
+                9
+            ],
+            "C": [
+                9,
+                8
+            ],
+            "B": [],
+            "O": []
+        },
+        "points": 0,
+        "figure": "N/A"
+    },
+    "IMG_20240630_174223161_HDR.jpg": {
+        "total_cards": 3,
+        "cards": {
+            "E": [
+                10
+            ],
+            "C": [],
+            "B": [
+                12
+            ],
+            "O": [
+                4
+            ]
+        },
+        "points": 4,
+        "figure": "0"
+    },
+    "IMG_20240630_174418639.jpg": {
+        "total_cards": 3,
+        "cards": {
+            "E": [],
+            "C": [],
+            "B": [
+                10
+            ],
+            "O": [
+                7,
+                5
+            ]
+        },
+        "points": 32,
+        "figure": "O"
+    },
+    "IMG_20240630_173929084.jpg": {
+        "total_cards": 3,
+        "cards": {
+            "E": [],
+            "C": [],
+            "B": [],
+            "O": [
+                9,
+                8,
+                3
+            ]
+        },
+        "points": 0,
+        "figure": "N/A"
+    },
+    "IMG_20240630_174155383_HDR.jpg": {
+        "total_cards": 2,
+        "cards": {
+            "E": [
+                11,
+                12
+            ],
+            "C": [],
+            "B": [],
+            "O": []
+        },
+        "points": 20,
+        "figure": "E"
+    },
+    "IMG_20240630_174316833.jpg": {
+        "total_cards": 2,
+        "cards": {
+            "E": [],
+            "C": [
+                4
+            ],
+            "B": [],
+            "O": [
+                2
+            ]
+        },
+        "points": 4,
+        "figure": "C"
+    }
+}

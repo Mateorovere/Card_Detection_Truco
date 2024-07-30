@@ -1,0 +1,53 @@
+path: /content/drive/MyDrive/Proyecto_Final_CV/data/eval
+train: ./images/train/
+val: ./images/val/
+names:
+  0: 1O
+  1: 1C
+  2: 1E
+  3: 1B
+  4: 2O
+  5: 2C
+  6: 2E
+  7: 2B
+  8: 3O
+  9: 3C
+  10: 3E
+  11: 3B
+  12: 4O
+  13: 4C
+  14: 4E
+  15: 4B
+  16: 5O
+  17: 5C
+  18: 5E
+  19: 5B
+  20: 6O
+  21: 6C
+  22: 6E
+  23: 6B
+  24: 7O
+  25: 7C
+  26: 7E
+  27: 7B
+  28: 8O
+  29: 8C
+  30: 8E
+  31: 8B
+  32: 9O
+  33: 9C
+  34: 9E
+  35: 9B
+  36: 10O
+  37: 10C
+  38: 10E
+  39: 10B
+  40: 11O
+  41: 11C
+  42: 11E
+  43: 11B
+  44: 12O
+  45: 12C
+  46: 12E
+  47: 12B
+  48: J
